@@ -1,0 +1,1 @@
+export const QUIKNODE_HTTP_URL = 'https://dark-warmhearted-uranium.quiknode.pro/d15fa2bedfa3e3923e936bf688da07e3e01fb143'
